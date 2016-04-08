@@ -1,4 +1,4 @@
-# ThreatHunting
+# The ThreatHunting Project
 An informational repo about hunting for adversaries in your IT environment.
 
 ## Organization
