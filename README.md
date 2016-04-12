@@ -5,6 +5,18 @@ An informational repo about hunting for adversaries in your IT environment.
 The core of this repository are the techniques in the *hunts* directory.  Each technique gets it's own file, which is simply a brief overview to explain the what the technique is good for, what data it requires and any other important highlights.  Each file also contains references (usually in the form of links) to sources that describe the technique more fully.
 
 In general, the expectation is that you may use the files in this collection to identify specific hunting techniques that are of interest to you, then follow the included references to read more and actually learn how to do it.
+
+### Threat Hunting Techniques By Topic
+
+* Attacker commands
+* Data hiding
+* Malware
+* Other
+* Unauthorized services
+* Webshells
+
+### Threat Hunting Techniques by Data Required
+
 ## License
 Here's the deal, in plain English:
 
