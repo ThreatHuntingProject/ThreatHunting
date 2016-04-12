@@ -25,7 +25,7 @@ This repo is here for the community. You are free to use it for personal or comm
 ## Contributing
 There are two ways to contribute to this repository:
 
-- Fork this repo, edit the appropriate technique (or use the *TECHNIQUE TEMPLATE.md* file to create a new one), then send us a pull request.  **This is the preferrred method.**
+- Fork this repo, edit the appropriate technique (or use the *TECHNIQUE TEMPLATE.md* file to create a new one), add it to the list in the appropriate topic and data categories, then send us a pull request.  **This is the preferrred method.**
 - Email us a public link to a blog posting, slide deck, etc that describes the technique in enough detail to allow someone to learn to perform it.  You may send your submissions to *hunts at threathunting d0t net*.
 
 ## Special Thanks
