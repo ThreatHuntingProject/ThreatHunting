@@ -22,7 +22,7 @@ Stack the data by full path and filename, "EA" an "EA Information" fields.  Look
 
 **More Info**
 
-- Intrusion Hunting for the Masses - David Sharpe (DerbyCon 2015)
-- [http://journeyintoir.blogspot.com/2012/12/extracting-zeroaccess-from-ntfs.html]()
-- [http://www.hexacorn.com/blog/category/software-releases/hmft/]()
+- [Intrusion Hunting for the Masses](https://www.youtube.com/watch?v=YLgycMCPo4c), David Sharpe (HackMiami 2016)
+- [Extracting ZeroAccess from NTFS Extended Attributes](http://journeyintoir.blogspot.com/2012/12/extracting-zeroaccess-from-ntfs.html), Corey Harrell
+- [Various articles on HMFT](http://www.hexacorn.com/blog/category/software-releases/hmft/), Hexacorn, Ltd.
 

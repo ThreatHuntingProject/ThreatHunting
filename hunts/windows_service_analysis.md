@@ -55,6 +55,7 @@ For _svchost_ services, list all DLLs loaded inside them (using _listdlls_) and 
 
 **More Info**
 
-* Intrusion Hunting for the Masses - David Sharpe (DerbyCon 2015)
+* [Intrusion Hunting for the Masses](https://www.youtube.com/watch?v=YLgycMCPo4c), David Sharpe (HackMiami 2016)
+
 
 

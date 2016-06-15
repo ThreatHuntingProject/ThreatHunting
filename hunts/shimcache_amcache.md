@@ -16,13 +16,9 @@ Stack count the filenames and/or directory paths to find rare files executed, ra
 
 **More info**
 
-- [https://www.fireeye.com/blog/threat-research/2015/06/caching_out_the_val.html]()
-- [https://dl.mandiant.com/EE/library/Whitepaper_ShimCacheParser.pdf]()
-- [https://github.com/mandiant/ShimCacheParser]()
-- [https://www.fireeye.com/blog/threat-research/2012/04/leveraging-application-compatibility-cache-forensic.html]()
-- [https://github.com/williballenthin/python-registry/blob/master/samples/amcache.py]()
-- [https://gist.github.com/williballenthin/ee512eacb672320f2df5#file-amcache_py_examples-md]()
-- [http://www.swiwforensics.com/2013/12/amcachehve-in-windows-8-goldmine-for.html]()
-- [http://www.swiwforensics.com/2013/12/amcachehve-part-2.html]()
-- Intrusion Hunting for the Masses - David Sharpe (DerbyCon 2015)
-- [https://www.fireeye.com/blog/threat-research/2015/10/shim_shady_live_inv.html]()
+- [Caching Out: The Value of Shimcache for Investigators](https://www.fireeye.com/blog/threat-research/2015/06/caching_out_the_val.html), FireEye
+- [Leveraging the Application Compatibility Cache in Forensic Investigations](https://dl.mandiant.com/EE/library/Whitepaper_ShimCacheParser.pdf), Mandiant
+- [ShimCacheParser](https://github.com/mandiant/ShimCacheParser), Mandiant
+- [amcache.py](https://gist.github.com/williballenthin/ee512eacb672320f2df5#file-amcache_py_examples-md), Will Ballenthin
+- [Intrusion Hunting for the Masses](https://www.youtube.com/watch?v=YLgycMCPo4c), David Sharpe (HackMiami 2016)
+- [ShimShady: Live Investigations of the Application Compatibility Cache](https://www.fireeye.com/blog/threat-research/2015/10/shim_shady_live_inv.html), Fred House, Claudiu Teodorescu, Andrew Davis (FireEye)

@@ -52,5 +52,6 @@ Order commands on each host by run time and look for:
 
 **More Info**
 
-* Intrusion Hunting for the Masses - David Sharpe (DerbyCon 2015)
+* [Intrusion Hunting for the Masses](https://www.youtube.com/watch?v=YLgycMCPo4c), David Sharpe (HackMiami 2016)
+
 

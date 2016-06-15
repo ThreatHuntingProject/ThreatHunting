@@ -18,5 +18,5 @@ The example in the link is based on Splunk, but it'd be nice to rework this usin
 
 **More Info**
 
-- [http://pleasefeedthegeek.wordpress.com/2012/12/20/detecting-malware-beacons-using-splunk/]()
+- [Detecting Malware Beacons Using Splunk](http://pleasefeedthegeek.wordpress.com/2012/12/20/detecting-malware-beacons-using-splunk/)
 

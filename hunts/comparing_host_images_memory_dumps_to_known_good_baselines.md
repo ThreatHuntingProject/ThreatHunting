@@ -14,6 +14,6 @@
 
 **More Info**
 
-- [http://downloads.volatilityfoundation.org/omfw/2013/OMFW2013_Levy.pdf]() "Every Step You Take" (*video needed, if available*)
-- “Several Ways to Skin a Rat - Jamie “Gleeda” Levy" (*Link needed*)
+- [Every Step You Take](http://downloads.volatilityfoundation.org/omfw/2013/OMFW2013_Levy.pdf) (*video needed, if available*)
+- “Several Ways to Skin a Rat", Jamie "Gleeda” Levy (*Link needed*)
 

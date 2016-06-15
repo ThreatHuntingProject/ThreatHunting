@@ -22,5 +22,5 @@ Examples of types of strings to look for:
 
 **More Info**
 
-* Intrusion Hunting for the Masses - David Sharpe (DerbyCon 2015)
+* [Intrusion Hunting for the Masses - David Sharpe (HackMiami 2016)](https://www.youtube.com/watch?v=YLgycMCPo4c)
 

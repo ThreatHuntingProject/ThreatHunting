@@ -19,5 +19,6 @@ Extract src & dest host/port fields from all *netstat* data, as well as the full
 
 **More Info**
 
-* Intrusion Hunting for the Masses - David Sharpe (DerbyCon 2015)
+* [Intrusion Hunting for the Masses](https://www.youtube.com/watch?v=YLgycMCPo4c), David Sharpe (HackMiami 2016)
+
 

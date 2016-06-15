@@ -24,9 +24,9 @@ Event 4688 is even more valuable if logging policy is set to record the entire c
 
 **More Info**
 
-- [https://twitter.com/jackcr/status/707215101007413248]()
-- [https://twitter.com/jackcr/status/707551910031728640]()
-- [https://twitter.com/jackcr/status/707247278118084608]()
-- [https://twitter.com/jackcr/status/707247524516651008]()
-- [https://twitter.com/jackcr/status/707247746462384129]()
+- [Tweet by @jackcr #1](https://twitter.com/jackcr/status/707215101007413248)
+- [Tweet by @jackcr #2](https://twitter.com/jackcr/status/707551910031728640)
+- [Tweet by @jackcr #3](https://twitter.com/jackcr/status/707247278118084608)
+- [Tweet by @jackcr #4](https://twitter.com/jackcr/status/707247524516651008)
+- [Tweet by @jackcr #5](https://twitter.com/jackcr/status/707247746462384129)
 

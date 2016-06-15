@@ -20,7 +20,7 @@
 
 Consider also doing this type of analysis for _incoming_ HTTP transactions (in server logs) to identify potential recon or attack activity.
 
-* Intrusion Hunting for the Masses - David Sharpe (DerbyCon 2015)
-* [http://www.secureworks.com/cyber-threat-intelligence/threats/threat-group-3390-targets-organizations-for-cyberespionage/]()
-* [http://blog.didierstevens.com/2015/05/11/detecting-network-traffic-from-metasploits-meterpreter-reverse-http-module/]()
+* [Intrusion Hunting for the Masses](https://www.youtube.com/watch?v=YLgycMCPo4c), David Sharpe (HackMiami 2016)
+* [Threat Group 3390 Cyberespionage](http://www.secureworks.com/cyber-threat-intelligence/threats/threat-group-3390-targets-organizations-for-cyberespionage/)
+* [Detecting Network Traffic from Metasploit's Meterpreter Reverse HTTP Module](http://blog.didierstevens.com/2015/05/11/detecting-network-traffic-from-metasploits-meterpreter-reverse-http-module/), Didier Stevens
 

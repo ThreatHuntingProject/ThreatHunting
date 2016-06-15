@@ -18,6 +18,6 @@ Better description needed here.
 
 **More Info**
 
-* Intrusion Hunting for the Masses - David Sharpe (DerbyCon 2015)
+* [Intrusion Hunting for the Masses](https://www.youtube.com/watch?v=YLgycMCPo4c), David Sharpe (HackMiami 2016)
 * "Art of Memory Forensics", Ligh, Case, Levy, Walters, Wiley Publishing, 2014 (page 75 addresses BIOS/firmware attacks)
 
