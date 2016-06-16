@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The ThreatHunting Project
+title: ThreatHunting Home
 ---
 
 Threat hunting is a popular topic these days, and
