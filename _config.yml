@@ -1,0 +1,12 @@
+# Setup
+name:         The ThreatHunting Project
+tagline:      Hunting for adversaries in your IT environment
+baseurl:      "/testrepo"
+url:          http://threathunting.net
+
+# Gems
+gems:
+  - jekyll-paginate
+
+#Others
+markdown: kramdown
