@@ -15,6 +15,9 @@ permalink: "/goal-index"
 
 [Psexec Windows Events]({{ site.github.repository_url }}/blob/master/hunts/psexec-windows-events.md)
 
+## BIOS/Firmware tampering
+[RAM Dumping]({{ site.github.repository_url }}/blob/master/hunts/ram_dumping.md)
+
 ## Compromise of Internet-Facing Service (SQL injection, web shells, etc)
 [Internet-Facing HTTP Request Analysis]({{ site.github.repository_url }}/blob/master/hunts/internet_facing_http_request_analysis.md)
 
