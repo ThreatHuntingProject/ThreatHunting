@@ -15,8 +15,10 @@ permalink: "/goal-index"
 
 [Psexec Windows Events]({{ site.github.repository_url }}/blob/master/hunts/psexec-windows-events.md)
 
-## Compromise of Internet-Facing Survice (SQL injection, web shells, etc)
+## Compromise of Internet-Facing Service (SQL injection, web shells, etc)
 [Internet-Facing HTTP Request Analysis]({{ site.github.repository_url }}/blob/master/hunts/internet_facing_http_request_analysis.md)
+
+[Checking How Outsiders See You]({{ site.github.repository_url }}/blob/master/hunts/checking-how-outsiders-see-you.md)
 
 ## Data Hiding
 [NTFS Extended Attribute Analysis]({{ site.github.repository_url }}/blob/master/hunts/ntfs_extended_attribute_analysis.md)
