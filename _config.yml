@@ -1,7 +1,7 @@
 # Setup
 name:         The ThreatHunting Project
 tagline:      Hunting for adversaries in your IT environment
-baseurl:      "/testrepo"
+baseurl:      ""
 url:          http://threathunting.net
 
 # Gems
