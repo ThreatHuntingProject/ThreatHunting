@@ -10,8 +10,9 @@ What data will they need to collect?
 
 On the other hand, there are a lot of individuals out there who have
 written blog posts, conference presentations or whatever that detail
-some of their favorite hunting procedures. The problem is that they
-are scattered and sometimes hard to find.
+some of their favorite hunting procedures. The problem is that these
+procedures are scattered all over the Internet, and are sometimes hard
+to find.
 
 That's why the ThreatHunting Project exists. Here you will find links
 to a number of different published hunting procedures. It my hope that
@@ -21,17 +22,17 @@ repertoire.
 
 ## Getting Started
 
-The core of this repository are the techniques in the [hunts]({{ site.github.repository_url }}/blob/master/hunts)
-directory. Each technique gets its own file, which contains a brief
-summary the what the technique is good for, what data it requires and
-any other important highlights. Each file also contains references
-(usually in the form of links) to sources that describe the technique
-more fully.
+The core of this repository is the list of published hunting
+procedures, which you will find on the sidebar.  You can either browse
+the full list, or if you have a specific hunting objective in mind,
+you can view that list indexed by goals.  Likewise, if you don't know
+what to hunt for but you have some data, consult the data index to see
+what you might be able to find with it.
 
-In general, the expectation is that you may use the files in this
+In general, the expectation is that you may use the procedures in this
 collection to identify specific hunting techniques that are of
 interest to you, then follow the included references to read more and
-actually learn how to do it.
+actually learn how to perform those hunts.
 
 ## License
 
