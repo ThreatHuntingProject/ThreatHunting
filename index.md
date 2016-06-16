@@ -2,19 +2,6 @@
 layout: default
 title: The ThreatHunting Project
 ---
-# Debug
-Site name: {{ site.name }}
-
-Github: {{ site.github.url }}
-
-Repo URL: {{ site.github.repository_url }}
-
-URL: {{ site.url }}
-
-Baseurl: {{ site.baseurl }}
-
-
-# {{ site.name }}
 
 Threat hunting is a popular topic these days, and
 there are a lot of people who want to get started but don't know
