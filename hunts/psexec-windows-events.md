@@ -1,4 +1,4 @@
-#Technique
+#Psexec Windows Events
 
 **Purpose**: 
 Find instances of psexec service (remote command execution) on Windows sytems by examining event logs pertaining to access control for remote shares.
