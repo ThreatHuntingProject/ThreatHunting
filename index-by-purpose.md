@@ -13,6 +13,8 @@ permalink: "/goal-index"
 
 [Windows Service Analysis]({{ site.github.repository_url }}/blob/master/hunts/windows_service_analysis.md)
 
+[Psexec Windows Events]({{ site.github.repository_url }}/blob/master/psexec-windows-events.md)
+
 ## Compromise of Internet-Facing Survice (SQL injection, web shells, etc)
 [Internet-Facing HTTP Request Analysis]({{ site.github.repository_url }}/blob/master/hunts/internet_facing_http_request_analysis.md)
 
@@ -21,6 +23,9 @@ permalink: "/goal-index"
 
 ## Exploits
 [Suspicious Process Creation via Windows Event Logs]({{ site.github.repository_url }}/blob/master/hunts/suspicious_process_creation_via_windows_event_logs.md)
+
+## Lateral movement
+[Psexec Windows Events]({{ site.github.repository_url }}/blob/master/psexec-windows-events.md)
 
 ## Malicious Listening Services
 [Search for Rogue Listeners]( {{ site.github.repository_url }}/blob/master/hunts/rogue_listeners.md)

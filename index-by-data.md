@@ -43,4 +43,7 @@ permalink: "/data-index"
 
 [Suspicious Process Creation via Windows Event Logs]({{ site.github.repository_url }}/blob/master/hunts/suspicious_process_creation_via_windows_event_logs.md) *Event IDs 4688 & 592)
 
+[Psexec Windows Events]({{ site.github.repository_url }}/blob/master/psexec-windows-events.md)
+
+
 
