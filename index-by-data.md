@@ -45,6 +45,8 @@ permalink: "/data-index"
 
 [Psexec Windows Events]({{ site.github.repository_url }}/blob/master/hunts/psexec-windows-events.md)
 
+[Detecting Lateral Movement in Windows Event Logs]({{ site.github.repository_url }}/blob/master/hunts/lateral-movement-windows-authentication-logs.md)
+
 ## Other
 [Checking How Outsiders See You]({{ site.github.repository_url }}/blob/master/hunts/checking-how-outsiders-see-you.md)
 

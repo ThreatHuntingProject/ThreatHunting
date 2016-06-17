@@ -32,6 +32,8 @@ permalink: "/goal-index"
 ## Lateral movement
 [Psexec Windows Events]({{ site.github.repository_url }}/blob/master/hunts/psexec-windows-events.md)
 
+[Detecting Lateral Movement in Windows Event Logs]({{ site.github.repository_url }}/blob/master/hunts/lateral-movement-windows-authentication-logs.md)
+
 ## Malicious Listening Services
 [Search for Rogue Listeners]( {{ site.github.repository_url }}/blob/master/hunts/rogue_listeners.md)
 
