@@ -23,16 +23,20 @@ permalink: "/goal-index"
 
 [Checking How Outsiders See You]({{ site.github.repository_url }}/blob/master/hunts/checking-how-outsiders-see-you.md)
 
+[RDP External Access]({{ site.github.repository_url }}/blob/master/hunts/rdp_external_access.md)
+
 ## Data Hiding
 [NTFS Extended Attribute Analysis]({{ site.github.repository_url }}/blob/master/hunts/ntfs_extended_attribute_analysis.md)
 
 ## Exploits
 [Suspicious Process Creation via Windows Event Logs]({{ site.github.repository_url }}/blob/master/hunts/suspicious_process_creation_via_windows_event_logs.md)
 
-## Lateral movement
+## Lateral movement / Compromised Credentials
 [Psexec Windows Events]({{ site.github.repository_url }}/blob/master/hunts/psexec-windows-events.md)
 
 [Detecting Lateral Movement in Windows Event Logs]({{ site.github.repository_url }}/blob/master/hunts/lateral-movement-windows-authentication-logs.md)
+
+[RDP External Access]({{ site.github.repository_url }}/blob/master/hunts/rdp_external_access.md)
 
 ## Malicious Listening Services
 [Search for Rogue Listeners]( {{ site.github.repository_url }}/blob/master/hunts/rogue_listeners.md)

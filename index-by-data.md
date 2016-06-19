@@ -8,6 +8,9 @@ permalink: "/data-index"
 ## Anti-Virus Logs
 [Finding Known-Bad in Antivirus Logs]({{ site.github.repository_url }}/blob/master/hunts/antivirus_logs.md)
 
+## Bro NSM Logs
+[RDP External Access]({{ site.github.repository_url }}/blob/master/hunts/rdp_external_access.md)
+
 ## Host Dumps (RAM, Registry, Filesystem, Processes, etc)
 [Comparing Host Images/Memory Dumps to Known-Good Baselines]({{ site.github.repository_url }}/blob/master/hunts/comparing_host_images_memory_dumps_to_known_good_baselines.md)
 
@@ -46,6 +49,8 @@ permalink: "/data-index"
 [Psexec Windows Events]({{ site.github.repository_url }}/blob/master/hunts/psexec-windows-events.md)
 
 [Detecting Lateral Movement in Windows Event Logs]({{ site.github.repository_url }}/blob/master/hunts/lateral-movement-windows-authentication-logs.md)
+
+[RDP External Access]({{ site.github.repository_url }}/blob/master/hunts/rdp_external_access.md)
 
 ## Other
 [Checking How Outsiders See You]({{ site.github.repository_url }}/blob/master/hunts/checking-how-outsiders-see-you.md)
