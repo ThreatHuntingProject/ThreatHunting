@@ -6,7 +6,7 @@
 
 **Collection Considerations**: Bro requires a production NSM deployment, Windows events may be easier to collect for many organizations. 
 
-**Analysis Techniques**: Stack counting, baselining
+**Analysis Techniques**: Stack counting, baselining / outlier detection
 
 **Description**
 
