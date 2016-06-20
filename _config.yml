@@ -3,6 +3,8 @@ name:         The ThreatHunting Project
 tagline:      Hunting for adversaries in your IT environment
 baseurl:      ""
 url:          http://threathunting.net
+twitter:      ThreatHuntProj
+twitter_maintainer: DavidJBianco
 
 # Gems
 gems:
