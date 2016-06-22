@@ -25,16 +25,16 @@ Search all process creation log entries and look for:
 
 * _svchost.exe_ processes that are not children of _services.exe_
 * Processes created by binaries in unsual locations, such as
-** _%windows%\fonts_
-** _%windows%\help_
-** _%windows%\wbem_
-** _%windows%\addins_
-** _%windows%\debut_
-** _%windows%\system32\tasks_
+	* _%windows%\fonts_
+	* _%windows%\help_
+	* _%windows%\wbem_
+	* _%windows%\addins_
+	* _%windows%\debut_
+	* _%windows%\system32\tasks_
 * Known attacker tool names, such as
-** _rar.exe_
-** _psexec.exe_
-** _whoami.exe_
+	* _rar.exe_
+  	* _psexec.exe_
+  	* _whoami.exe_
 
 * Processes that launched very few times during a 24 hour period
 
