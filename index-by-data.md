@@ -49,9 +49,9 @@ permalink: "/data-index"
 
 ## Windows Event Logs
 
-[EMET Log Mining]({{ site.github.repository_url }}/blob/master/hunts/emet_log_mining.md) *Requires Application logs with EMET enabled*
+[EMET Log Mining]({{ site.github.repository_url }}/blob/master/hunts/emet_log_mining.md)
 
-[Suspicious Process Creation via Windows Event Logs]({{ site.github.repository_url }}/blob/master/hunts/suspicious_process_creation_via_windows_event_logs.md) *Event IDs 4688 & 592)
+[Suspicious Process Creation via Windows Event Logs]({{ site.github.repository_url }}/blob/master/hunts/suspicious_process_creation_via_windows_event_logs.md)
 
 [Psexec Windows Events]({{ site.github.repository_url }}/blob/master/hunts/psexec-windows-events.md)
 
