@@ -8,15 +8,13 @@ permalink: "/data-index"
 ## Anti-Virus Logs
 [Finding Known-Bad in Antivirus Logs]({{ site.github.repository_url }}/blob/master/hunts/antivirus_logs.md)
 
-[Seek Evil, and Ye Shall Find: A Guide to Cyber Threat Hunting Operations](https://digitalguardian.com/blog/seek-evil-and-ye-shall-find-guide-cyber-threat-hunting-operations), Tim Bandos, Digital Guardian
-
 ## Bro NSM Logs
 [RDP External Access]({{ site.github.repository_url }}/blob/master/hunts/rdp_external_access.md)
 
-[Seek Evil, and Ye Shall Find: A Guide to Cyber Threat Hunting Operations](https://digitalguardian.com/blog/seek-evil-and-ye-shall-find-guide-cyber-threat-hunting-operations), Tim Bandos, Digital Guardian (DNS and HTTP logs)
+[C2 via Dynamic DNS]({{ site.github.repository_url }}/blob/master/hunts/dynamic_dns_c2.md)
 
 ## DNS Query Logs
-[Seek Evil, and Ye Shall Find: A Guide to Cyber Threat Hunting Operations](https://digitalguardian.com/blog/seek-evil-and-ye-shall-find-guide-cyber-threat-hunting-operations), Tim Bandos, Digital Guardian
+[C2 via Dynamic DNS]({{ site.github.repository_url }}/blob/master/hunts/dynamic_dns_c2.md)
 
 ## Host Dumps (RAM, Registry, Filesystem, Processes, etc)
 [Comparing Host Images/Memory Dumps to Known-Good Baselines]({{ site.github.repository_url }}/blob/master/hunts/comparing_host_images_memory_dumps_to_known_good_baselines.md)
@@ -44,7 +42,7 @@ permalink: "/data-index"
 
 [HTTP User-Agent Analysis]({{ site.github.repository_url }}/blob/master/hunts/http_user_agent_analysis.md)
 
-[Seek Evil, and Ye Shall Find: A Guide to Cyber Threat Hunting Operations](https://digitalguardian.com/blog/seek-evil-and-ye-shall-find-guide-cyber-threat-hunting-operations), Tim Bandos, Digital Guardian
+[C2 via Dynamic DNS]({{ site.github.repository_url }}/blob/master/hunts/dynamic_dns_c2.md)
 
 ## HTTP Server Logs
 [Internet-Facing HTTP Request Analysis]({{ site.github.repository_url }}/blob/master/hunts/internet_facing_http_request_analysis.md)
@@ -61,7 +59,9 @@ permalink: "/data-index"
 
 [RDP External Access]({{ site.github.repository_url }}/blob/master/hunts/rdp_external_access.md)
 
-[Seek Evil, and Ye Shall Find: A Guide to Cyber Threat Hunting Operations](https://digitalguardian.com/blog/seek-evil-and-ye-shall-find-guide-cyber-threat-hunting-operations), Tim Bandos, Digital Guardian
+[Windows Lateral Movement via Explicit Credentials]({{ site.github.repository_url }}/blob/master/hunts/lateral-movement-via-explicit-credentials.md)
+
+[Privileged Group Tracking]({{ site.github.repository_url }}/blob/master/hunts/privileged-group-tracking.md)
 
 ## Other
 [Checking How Outsiders See You]({{ site.github.repository_url }}/blob/master/hunts/checking-how-outsiders-see-you.md)

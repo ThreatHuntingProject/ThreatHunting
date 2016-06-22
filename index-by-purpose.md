@@ -15,13 +15,11 @@ permalink: "/goal-index"
 
 [Psexec Windows Events]({{ site.github.repository_url }}/blob/master/hunts/psexec-windows-events.md)
 
-[Seek Evil, and Ye Shall Find: A Guide to Cyber Threat Hunting Operations](https://digitalguardian.com/blog/seek-evil-and-ye-shall-find-guide-cyber-threat-hunting-operations), Tim Bandos, Digital Guardian
-
 ## BIOS/Firmware tampering
 [RAM Dumping]({{ site.github.repository_url }}/blob/master/hunts/ram_dumping.md)
 
 ## Command and Control (C2)
-[Seek Evil, and Ye Shall Find: A Guide to Cyber Threat Hunting Operations](https://digitalguardian.com/blog/seek-evil-and-ye-shall-find-guide-cyber-threat-hunting-operations), Tim Bandos, Digital Guardian
+[C2 via Dynamic DNS]({{ site.github.repository_url }}/blob/master/hunts/dynamic_dns_c2.md)
 
 ## Compromise of Internet-Facing Service (SQL injection, web shells, etc)
 [Internet-Facing HTTP Request Analysis]({{ site.github.repository_url }}/blob/master/hunts/internet_facing_http_request_analysis.md)
@@ -43,7 +41,7 @@ permalink: "/goal-index"
 
 [RDP External Access]({{ site.github.repository_url }}/blob/master/hunts/rdp_external_access.md)
 
-[Seek Evil, and Ye Shall Find: A Guide to Cyber Threat Hunting Operations](https://digitalguardian.com/blog/seek-evil-and-ye-shall-find-guide-cyber-threat-hunting-operations), Tim Bandos, Digital Guardian
+[Windows Lateral Movement via Explicit Credentials]({{ site.github.repository_url }}/blob/master/hunts/lateral-movement-via-explicit-credentials.md)
 
 ## Malicious Listening Services
 [Search for Rogue Listeners]( {{ site.github.repository_url }}/blob/master/hunts/rogue_listeners.md)
@@ -69,8 +67,6 @@ permalink: "/goal-index"
 
 [Windows Service Analysis]({{ site.github.repository_url }}/blob/master/hunts/windows_service_analysis.md)
 
-[Seek Evil, and Ye Shall Find: A Guide to Cyber Threat Hunting Operations](https://digitalguardian.com/blog/seek-evil-and-ye-shall-find-guide-cyber-threat-hunting-operations), Tim Bandos, Digital Guardian
-
 ## Privilege Escalation
-[Seek Evil, and Ye Shall Find: A Guide to Cyber Threat Hunting Operations](https://digitalguardian.com/blog/seek-evil-and-ye-shall-find-guide-cyber-threat-hunting-operations), Tim Bandos, Digital Guardian
+[Privileged Group Tracking]({{ site.github.repository_url }}/blob/master/hunts/privileged-group-tracking.md)
 
