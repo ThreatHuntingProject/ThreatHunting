@@ -19,8 +19,11 @@ Examples of types of strings to look for:
 * AV "street names" you are concerned about
 * Packed executables (if this information is logged)
 * Known attacker tools (cred dumpers, scanners, etc)
+* Any detection with the string "dropper" in the name
 
 **More Info**
 
 * [Intrusion Hunting for the Masses - David Sharpe (HackMiami 2016)](https://www.youtube.com/watch?v=YLgycMCPo4c)
+* [Seek Evil, and Ye Shall Find: A Guide to Cyber Threat Hunting Operations](https://digitalguardian.com/blog/seek-evil-and-ye-shall-find-guide-cyber-threat-hunting-operations), Tim Bandos, Digital Guardian
+
 

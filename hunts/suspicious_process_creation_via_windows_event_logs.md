@@ -1,16 +1,45 @@
 #Suspicious Process Creation via Windows Event Logs
 
-**Purpose**: Find attacker tools in use 
+**Purpose**
 
-**Data Required**: Windows process creation logs (Event 4688 & 592)
+Find attacker tools in use 
 
-**Collection Considerations**: Collect these from every host in the domain
+**Data Required**
 
-**Analysis Techniques**: stack counting
+Windows process creation logs (Event 4688 & 592)
+
+**Collection Considerations**
+
+Collect these from every host in the domain.  If you have additional
+endpoint data collection tools that can log data about process
+execution (e.g. Microsoft Sysmon, Carbon Black, etc) you may be able
+to similar analyses with equivalent data.
+
+**Analysis Techniques**
+
+stack counting
 
 **Description**
 
-This is based on a set of tweets by Jack Crook (@jackcr):
+Search all process creation log entries and look for:
+
+* _svchost.exe_ processes that are not children of _services.exe_
+* Processes created by binaries in unsual locations, such as
+** _%windows%\fonts_
+** _%windows%\help_
+** _%windows%\wbem_
+** _%windows%\addins_
+** _%windows%\debut_
+** _%windows%\system32\tasks_
+* Known attacker tool names, such as
+** _rar.exe_
+** _psexec.exe_
+** _whoami.exe_
+
+* Processes that launched very few times during a 24 hour period
+
+
+The following are based on a set of tweets by Jack Crook (@jackcr):
 
 "Attackers need to execute tools. Look at Windows Event ID's 4688/592. Stack and look for outliers. Group by execution time and user."
 
@@ -20,7 +49,13 @@ This is based on a set of tweets by Jack Crook (@jackcr):
 
 **Other Notes**
 
-Event 4688 is even more valuable if logging policy is set to record the entire command line.
+Event 4688 is even more valuable if logging policy is set to record
+the entire command line (some of these suggestions require that info).
+Review your domain audit policies and/or supplement with additional
+process logging as necessary.  Sysmon is a very good free tool that
+can do nearly anything you'd need.
+
+
 
 **More Info**
 
@@ -29,4 +64,5 @@ Event 4688 is even more valuable if logging policy is set to record the entire c
 - [Tweet by @jackcr #3](https://twitter.com/jackcr/status/707247278118084608)
 - [Tweet by @jackcr #4](https://twitter.com/jackcr/status/707247524516651008)
 - [Tweet by @jackcr #5](https://twitter.com/jackcr/status/707247746462384129)
+- [Seek Evil, and Ye Shall Find: A Guide to Cyber Threat Hunting Operations](https://digitalguardian.com/blog/seek-evil-and-ye-shall-find-guide-cyber-threat-hunting-operations), Tim Bandos, Digital Guardian
 
