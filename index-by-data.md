@@ -8,8 +8,15 @@ permalink: "/data-index"
 ## Anti-Virus Logs
 [Finding Known-Bad in Antivirus Logs]({{ site.github.repository_url }}/blob/master/hunts/antivirus_logs.md)
 
+[Seek Evil, and Ye Shall Find: A Guide to Cyber Threat Hunting Operations](https://digitalguardian.com/blog/seek-evil-and-ye-shall-find-guide-cyber-threat-hunting-operations), Tim Bandos, Digital Guardian
+
 ## Bro NSM Logs
 [RDP External Access]({{ site.github.repository_url }}/blob/master/hunts/rdp_external_access.md)
+
+[Seek Evil, and Ye Shall Find: A Guide to Cyber Threat Hunting Operations](https://digitalguardian.com/blog/seek-evil-and-ye-shall-find-guide-cyber-threat-hunting-operations), Tim Bandos, Digital Guardian (DNS and HTTP logs)
+
+## DNS Query Logs
+[Seek Evil, and Ye Shall Find: A Guide to Cyber Threat Hunting Operations](https://digitalguardian.com/blog/seek-evil-and-ye-shall-find-guide-cyber-threat-hunting-operations), Tim Bandos, Digital Guardian
 
 ## Host Dumps (RAM, Registry, Filesystem, Processes, etc)
 [Comparing Host Images/Memory Dumps to Known-Good Baselines]({{ site.github.repository_url }}/blob/master/hunts/comparing_host_images_memory_dumps_to_known_good_baselines.md)
@@ -37,6 +44,8 @@ permalink: "/data-index"
 
 [HTTP User-Agent Analysis]({{ site.github.repository_url }}/blob/master/hunts/http_user_agent_analysis.md)
 
+[Seek Evil, and Ye Shall Find: A Guide to Cyber Threat Hunting Operations](https://digitalguardian.com/blog/seek-evil-and-ye-shall-find-guide-cyber-threat-hunting-operations), Tim Bandos, Digital Guardian
+
 ## HTTP Server Logs
 [Internet-Facing HTTP Request Analysis]({{ site.github.repository_url }}/blob/master/hunts/internet_facing_http_request_analysis.md)
 
@@ -51,6 +60,8 @@ permalink: "/data-index"
 [Detecting Lateral Movement in Windows Event Logs]({{ site.github.repository_url }}/blob/master/hunts/lateral-movement-windows-authentication-logs.md)
 
 [RDP External Access]({{ site.github.repository_url }}/blob/master/hunts/rdp_external_access.md)
+
+[Seek Evil, and Ye Shall Find: A Guide to Cyber Threat Hunting Operations](https://digitalguardian.com/blog/seek-evil-and-ye-shall-find-guide-cyber-threat-hunting-operations), Tim Bandos, Digital Guardian
 
 ## Other
 [Checking How Outsiders See You]({{ site.github.repository_url }}/blob/master/hunts/checking-how-outsiders-see-you.md)
