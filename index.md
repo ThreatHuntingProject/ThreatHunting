@@ -22,6 +22,11 @@ repertoire.
 
 ## Getting Started
 
+First, if you are new to the idea of threat hunting, you may find the
+<a href="{{ site.baseurl }}/reading-list">annotated reading list</a> a
+useful source of links to help you understand what hunting is, how
+it's done and what successful organizations do to help their hunters.
+
 The core of this repository is the list of published hunting
 procedures, which you will find on the sidebar.  You can either browse
 the full list, or if you have a specific hunting objective in mind,
