@@ -10,9 +10,9 @@
 
 **Description**
 
-If you collect your proxy logs in a central location, similar to user agent analysis, you can perform queriest against the URI to identify patterns of malicious and suspicious activity leaving the environment. Ingress monitoring (proxy or web server logs) is also key for monitoring attackers performing attempts against web servers using suspicious requests. Similar to creating IDS signatures for detecting suspicious behavior, can perform that against mass amounts of data quickly to identify potential export of identifiable information.
+If you collect your proxy logs in a central location, similar to user agent analysis, you can perform queries against the URI to identify patterns of malicious and suspicious activity leaving the environment. Ingress monitoring (proxy or web server logs) is also key for monitoring attackers performing attempts against web servers using suspicious requests. Similar to creating IDS signatures for detecting suspicious behavior, can perform that against mass amounts of data quickly to identify potential export of identifiable information.
 
-Examples of types of strings to look for:
+Examples of types of URI's to look for:
 
 * OWASP Top 10
 * Credit card strings
