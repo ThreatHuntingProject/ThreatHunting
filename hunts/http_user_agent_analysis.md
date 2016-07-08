@@ -23,4 +23,6 @@ Consider also doing this type of analysis for _incoming_ HTTP transactions (in s
 * [Intrusion Hunting for the Masses](https://www.youtube.com/watch?v=YLgycMCPo4c), David Sharpe (HackMiami 2016)
 * [Threat Group 3390 Cyberespionage](http://www.secureworks.com/cyber-threat-intelligence/threats/threat-group-3390-targets-organizations-for-cyberespionage/)
 * [Detecting Network Traffic from Metasploit's Meterpreter Reverse HTTP Module](http://blog.didierstevens.com/2015/05/11/detecting-network-traffic-from-metasploits-meterpreter-reverse-http-module/), Didier Stevens
+* [The User Agent Field: Analyzing and Detecting the
+Abnormal or Malicious in your Organization](https://www.sans.org/reading-room/whitepapers/malicious/user-agent-field-analyzing-detecting-abnormal-malicious-organization-33874), Darren Manners
 
