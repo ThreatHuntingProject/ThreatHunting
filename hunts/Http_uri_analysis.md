@@ -22,3 +22,4 @@ Examples of types of URI's to look for:
 * Encoded with something
 
 **More Info**
+* [OWASP Top 10] (https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project), OWASP Project
