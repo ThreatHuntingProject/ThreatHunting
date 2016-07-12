@@ -20,7 +20,8 @@ Filtering, stack counting
 
 Isolate the log entries that contain domains hosted on dynamic DNS
 providers.  Look for sites visited by a low number of unique hosts (IP
-addreses).
+addresses). Utilize a lookup or feed of known dynamic DNS (DDNS) domains
+to query against data in a SIEM or log aggregator. 
 
 **Other Notes**
 
@@ -30,4 +31,5 @@ may be at least somewhat suspicious.
 **More Info**
 
 - [Seek Evil, and Ye Shall Find: A Guide to Cyber Threat Hunting Operations](https://digitalguardian.com/blog/seek-evil-and-ye-shall-find-guide-cyber-threat-hunting-operations), Tim Bandos, Digital Guardian
+- [www.malwaredomains.com Dynamic DNS domain list] (http://mirror1.malwaredomains.com/files/dynamic_dns.txt), Malwaredomains.com
 
