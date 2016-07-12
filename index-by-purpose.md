@@ -21,6 +21,8 @@ permalink: "/goal-index"
 ## Command and Control (C2)
 [C2 via Dynamic DNS]({{ site.github.repository_url }}/blob/master/hunts/dynamic_dns_c2.md)
 
+[Finding the Unknown with HTTP URIs]({{ site.github.repository_url }}/blob/master/hunts/http_uri_analysis.md)
+
 ## Compromise of Internet-Facing Service (SQL injection, web shells, etc)
 [Internet-Facing HTTP Request Analysis]({{ site.github.repository_url }}/blob/master/hunts/internet_facing_http_request_analysis.md)
 
@@ -66,6 +68,8 @@ permalink: "/goal-index"
 [Windows Prefetch Cache Analysis]({{ site.github.repository_url }}/blob/master/hunts/windows_prefetch_cache_analysis.md)
 
 [Windows Service Analysis]({{ site.github.repository_url }}/blob/master/hunts/windows_service_analysis.md)
+
+[Finding the Unknown with HTTP URIs]({{ site.github.repository_url }}/blob/master/hunts/http_uri_analysis.md)
 
 ## Privilege Escalation
 [Privileged Group Tracking]({{ site.github.repository_url }}/blob/master/hunts/privileged-group-tracking.md)

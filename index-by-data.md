@@ -13,6 +13,8 @@ permalink: "/data-index"
 
 [C2 via Dynamic DNS]({{ site.github.repository_url }}/blob/master/hunts/dynamic_dns_c2.md)
 
+[Finding the Unknown with HTTP URIs]({{ site.github.repository_url }}/blob/master/hunts/http_uri_analysis.md)
+
 ## DNS Query Logs
 [C2 via Dynamic DNS]({{ site.github.repository_url }}/blob/master/hunts/dynamic_dns_c2.md)
 
@@ -43,6 +45,8 @@ permalink: "/data-index"
 [HTTP User-Agent Analysis]({{ site.github.repository_url }}/blob/master/hunts/http_user_agent_analysis.md)
 
 [C2 via Dynamic DNS]({{ site.github.repository_url }}/blob/master/hunts/dynamic_dns_c2.md)
+
+[Finding the Unknown with HTTP URIs]({{ site.github.repository_url }}/blob/master/hunts/http_uri_analysis.md)
 
 ## HTTP Server Logs
 [Internet-Facing HTTP Request Analysis]({{ site.github.repository_url }}/blob/master/hunts/internet_facing_http_request_analysis.md)
