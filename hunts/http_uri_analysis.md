@@ -1,4 +1,4 @@
-#Finding the Unknown with HTTP URI's
+#Finding the Unknown with HTTP URIs
 
 **Purpose**: Identify things signatures have not been created for in relation to network traffic behavior. 
 
