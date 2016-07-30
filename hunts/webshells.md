@@ -44,8 +44,8 @@ Endpoint detection strategies:
 
 There are a few webshell hunt techniques located in other hunts:
 
-* [Anti-Virus Logs](https://github.com/DavidJBianco/ThreatHunting/blob/master/hunts/antivirus_logs.md)
-* [Process Creation via Windows Event Logs](https://github.com/DavidJBianco/ThreatHunting/blob/master/hunts/suspicious_process_creation_via_windows_event_logs.md)
+* [Finding Known-Bad in Antivirus Logs](https://github.com/DavidJBianco/ThreatHunting/blob/master/hunts/antivirus_logs.md)
+* [Suspicious Process Creation via Windows Event Logs](https://github.com/DavidJBianco/ThreatHunting/blob/master/hunts/suspicious_process_creation_via_windows_event_logs.md)
 
 It's important to realize that injected webshells may not be written to disk (e.g., SSJI, XSS, etc.)
 
