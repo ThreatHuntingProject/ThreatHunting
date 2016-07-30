@@ -34,7 +34,7 @@ permalink: "/goal-index"
 
 [Suspicious Process Creation via Windows Event Logs]({{ site.github.repository_url }}/blob/master/hunts/suspicious_process_creation_via_windows_event_logs.md)
 
-[Webshells]({{ site.github.repository_url }}/blob/master/hunts/webshells.md)
+[Finding Webshells]({{ site.github.repository_url }}/blob/master/hunts/webshells.md)
 
 ## Data Hiding
 [NTFS Extended Attribute Analysis]({{ site.github.repository_url }}/blob/master/hunts/ntfs_extended_attribute_analysis.md)
