@@ -1,15 +1,18 @@
 # Finding Web Shells
 
-**Purpose**:  Identify web shells (stand-alone|injected)
+**Purpose**
 
-**Data Required**: 
+Identify web shells (stand-alone|injected)
+
+**Data Required**
 
 Web server logs (apache, IIS, etc.)
 
-**Collection Considerations**: 
+**Collection Considerations**
 
 Collect from all webservers, and ensure that parameters are collected.  
 POST data should be collected.  
+
 * For apache consider using mod_security or mod_dumpio
 * For IIS use [Failed Request Tracing / Custom Logging](http://serverfault.com/a/90965)
 
@@ -21,7 +24,7 @@ String matching
 **Description**
 
 * Stack by page hits -- pages with few hits are a typical sign
-    * Add more fideltility by combining views from below (none if the above is giving higher fidelity, one, two or all):
+    * Add more fidelity by combining views from below (none if the above is giving higher fidelity, one, two or all):
         * No referer from client
         * Stack by unique visits per IP -- most only visit the webshell (no other page hits, no js, no images, etc.)
             * this isn't true of injected webshells (where they are injected into an existing page)
@@ -37,10 +40,15 @@ Endpoint detection strategies:
     * PHP functions like exec(), shell_exec(), etc.
     * asp(.net) functions like eval(), bind(), etc.)
 * Looking for file additions or file changes (if you have a change management process and schedule to easily differentiate 'known good') -- (using something like inotify on linux (or FileSystemWatcher in .NET), to monitor the webroot folder(s) recursively)
-There are a few of the webshell hunt techniques located in other hunts:
+
+
+There are a few webshell hunt techniques located in other hunts:
+
 * [Anti-Virus Logs](https://github.com/DavidJBianco/ThreatHunting/blob/master/hunts/antivirus_logs.md)
 * [Process Creation via Windows Event Logs](https://github.com/DavidJBianco/ThreatHunting/blob/master/hunts/suspicious_process_creation_via_windows_event_logs.md)
 
 It's important to realize that injected webshells may not be written to disk (e.g., SSJI, XSS, etc.)
 
 **More Info**
+
+None
