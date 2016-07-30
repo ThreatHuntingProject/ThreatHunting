@@ -51,6 +51,8 @@ permalink: "/data-index"
 ## HTTP Server Logs
 [Internet-Facing HTTP Request Analysis]({{ site.github.repository_url }}/blob/master/hunts/internet_facing_http_request_analysis.md)
 
+[Webshells]({{ site.github.repository_url }}/blob/master/hunts/webshells.md)
+
 ## Windows Event Logs
 
 [EMET Log Mining]({{ site.github.repository_url }}/blob/master/hunts/emet_log_mining.md)

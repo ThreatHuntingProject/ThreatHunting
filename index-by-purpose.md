@@ -30,6 +30,12 @@ permalink: "/goal-index"
 
 [RDP External Access]({{ site.github.repository_url }}/blob/master/hunts/rdp_external_access.md)
 
+[Finding Known-Bad in Antivirus Logs]({{ site.github.repository_url }}/blob/master/hunts/antivirus_logs.md)
+
+[Suspicious Process Creation via Windows Event Logs]({{ site.github.repository_url }}/blob/master/hunts/suspicious_process_creation_via_windows_event_logs.md)
+
+[Webshells]({{ site.github.repository_url }}/blob/master/hunts/webshells.md)
+
 ## Data Hiding
 [NTFS Extended Attribute Analysis]({{ site.github.repository_url }}/blob/master/hunts/ntfs_extended_attribute_analysis.md)
 
