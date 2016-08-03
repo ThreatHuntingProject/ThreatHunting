@@ -4,7 +4,7 @@
 
 **Data Required**: NTFS Master File Table (MFT) data from a single host
 
-**Collection Considerations**: Run _fget.exe_ on each NTFS filesystem on a host to capture the raw data, then parse into records and fields with something like _analyzeMFT.py_
+**Collection Considerations**: Run `fget.exe` on each NTFS filesystem on a host to capture the raw data, then parse into records and fields with something like `analyzeMFT.py`
 
 **Analysis Techniques**: Stack counting
 
@@ -15,7 +15,7 @@ The MFT holds detailed metadata about files and directories on a file system.  T
 Stack the data by full path and filename, "EA" an "EA Information" fields.  Look for:
 
 * Rare values in the MFT "EA" or "EA Information" fields.  There may be some legitimate use of these in your environment, but hopefully these uses will have a high count.
-    * Anything in _/Windows/winsxs_ or _/Windows/CSC_ is probably legit
+    * Anything in `/Windows/winsxs` or `/Windows/CSC` is probably legit
 
 
 **Other Notes**

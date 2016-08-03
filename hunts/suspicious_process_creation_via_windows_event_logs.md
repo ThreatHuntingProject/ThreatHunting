@@ -23,18 +23,18 @@ stack counting
 
 Search all process creation log entries and look for:
 
-* _svchost.exe_ processes that are not children of _services.exe_
+* `svchost.exe` processes that are not children of `services.exe`
 * Processes created by binaries in unsual locations, such as
-	* _%windows%\fonts_
-	* _%windows%\help_
-	* _%windows%\wbem_
-	* _%windows%\addins_
-	* _%windows%\debut_
-	* _%windows%\system32\tasks_
+	* `%windows%\fonts`
+	* `%windows%\help`
+	* `%windows%\wbem`
+	* `%windows%\addins`
+	* `%windows%\debut`
+	* `%windows%\system32\tasks`
 * Known attacker tool names, such as
-	* _rar.exe_
-  	* _psexec.exe_
-  	* _whoami.exe_
+	* `rar.exe`
+  	* `psexec.exe`
+  	* `whoami.exe`
 
 * Processes that launched very few times during a 24 hour period
 
