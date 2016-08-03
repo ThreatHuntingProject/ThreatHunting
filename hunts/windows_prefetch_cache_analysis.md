@@ -4,7 +4,7 @@
 
 **Data Required**: Windows prefetch cache data
 
-**Collection Considerations**: Requires a special tool to convert binary file format to something we can consume (e.g., Nirsoft _WinPrefetchView_. Probably needs an agent.
+**Collection Considerations**: Requires a special tool to convert binary file format to something we can consume (e.g., Nirsoft `WinPrefetchView`. Probably needs an agent.
 
 **Analysis Techniques**: Stack counting, outlier detection
 

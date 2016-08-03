@@ -16,8 +16,8 @@ Filtering
 
 Look for Windows Event ID 5145, _A network share object was checked to
 see whether client can be granted desired access_.  Filter for events
-where the share is _IPC$_ and the service is _PSEXECSVC-*_.  Cross
-reference by examining the 5145 events for access to the _ADMIN$_
+where the share is `IPC$` and the service is `PSEXECSVC-*`.  Cross
+reference by examining the 5145 events for access to the `ADMIN$`
 share for tool/file copies and execution events.
 
 **Other Notes** Psexec is one of the most common mechanisms for

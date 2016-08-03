@@ -4,7 +4,7 @@
 
 **Data Required**: List of drivers loaded on each endpoint
 
-**Collection Considerations**: Typically use the _driverquery_ command on each host.
+**Collection Considerations**: Typically use the `driverquery` command on each host.
 
 **Analysis Techniques**: Stack counting
 
