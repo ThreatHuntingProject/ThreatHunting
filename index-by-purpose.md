@@ -36,6 +36,8 @@ permalink: "/goal-index"
 
 [Finding Webshells]({{ site.github.repository_url }}/blob/master/hunts/webshells.md)
 
+[Webshell Behavior]({{ site.github.repository_url }}/blob/master/hunts/webshell_behavior.md)
+
 ## Data Hiding
 [NTFS Extended Attribute Analysis]({{ site.github.repository_url }}/blob/master/hunts/ntfs_extended_attribute_analysis.md)
 
@@ -50,6 +52,8 @@ permalink: "/goal-index"
 [RDP External Access]({{ site.github.repository_url }}/blob/master/hunts/rdp_external_access.md)
 
 [Windows Lateral Movement via Explicit Credentials]({{ site.github.repository_url }}/blob/master/hunts/lateral-movement-via-explicit-credentials.md)
+
+[Lateral Movement Detection via Process Monitoring]({{ site.github.repository_url }}/blob/master/hunts/lateral_movement_detection_via_process_monitoring.md
 
 ## Malicious Listening Services
 [Search for Rogue Listeners]( {{ site.github.repository_url }}/blob/master/hunts/rogue_listeners.md)

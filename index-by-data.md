@@ -69,6 +69,17 @@ permalink: "/data-index"
 
 [Privileged Group Tracking]({{ site.github.repository_url }}/blob/master/hunts/privileged-group-tracking.md)
 
+[Webshell Behavior]({{ site.github.repository_url }}/blob/master/hunts/webshell_behavior.md)
+
+[Lateral Movement Detection via Process Monitoring]({{ site.github.repository_url }}/blob/master/hunts/lateral_movement_detection_via_process_monitoring.md
+
+## Process Creation Audit Logs
+[Suspicious Process Creation via Windows Event Logs]({{ site.github.repository_url }}/blob/master/hunts/suspicious_process_creation_via_windows_event_logs.md)
+
+[Webshell Behavior]({{ site.github.repository_url }}/blob/master/hunts/webshell_behavior.md)
+
+[Lateral Movement Detection via Process Monitoring]({{ site.github.repository_url }}/blob/master/hunts/lateral_movement_detection_via_process_monitoring.md
+
 ## Other
 [Checking How Outsiders See You]({{ site.github.repository_url }}/blob/master/hunts/checking-how-outsiders-see-you.md)
 
