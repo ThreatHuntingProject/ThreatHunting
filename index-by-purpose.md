@@ -53,7 +53,7 @@ permalink: "/goal-index"
 
 [Windows Lateral Movement via Explicit Credentials]({{ site.github.repository_url }}/blob/master/hunts/lateral-movement-via-explicit-credentials.md)
 
-[Lateral Movement Detection via Process Monitoring]({{ site.github.repository_url }}/blob/master/hunts/lateral_movement_detection_via_process_monitoring.md
+[Lateral Movement Detection via Process Monitoring]({{ site.github.repository_url }}/blob/master/hunts/lateral_movement_detection_via_process_monitoring.md)
 
 ## Malicious Listening Services
 [Search for Rogue Listeners]( {{ site.github.repository_url }}/blob/master/hunts/rogue_listeners.md)

@@ -78,7 +78,7 @@ permalink: "/data-index"
 
 [Webshell Behavior]({{ site.github.repository_url }}/blob/master/hunts/webshell_behavior.md)
 
-[Lateral Movement Detection via Process Monitoring]({{ site.github.repository_url }}/blob/master/hunts/lateral_movement_detection_via_process_monitoring.md
+[Lateral Movement Detection via Process Monitoring]({{ site.github.repository_url }}/blob/master/hunts/lateral_movement_detection_via_process_monitoring.md)
 
 ## Other
 [Checking How Outsiders See You]({{ site.github.repository_url }}/blob/master/hunts/checking-how-outsiders-see-you.md)
