@@ -71,7 +71,7 @@ permalink: "/data-index"
 
 [Webshell Behavior]({{ site.github.repository_url }}/blob/master/hunts/webshell_behavior.md)
 
-[Lateral Movement Detection via Process Monitoring]({{ site.github.repository_url }}/blob/master/hunts/lateral_movement_detection_via_process_monitoring.md
+[Lateral Movement Detection via Process Monitoring]({{ site.github.repository_url }}/blob/master/hunts/lateral_movement_detection_via_process_monitoring.md)
 
 ## Process Creation Audit Logs
 [Suspicious Process Creation via Windows Event Logs]({{ site.github.repository_url }}/blob/master/hunts/suspicious_process_creation_via_windows_event_logs.md)
