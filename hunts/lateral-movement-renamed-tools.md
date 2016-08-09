@@ -14,7 +14,7 @@ Collect from all endpoints and servers
 
 **Analysis Techniques**: 
 
-Idnetify common windows executable names or names that are 1-2 characters in length
+Idnetify common windows executable names or names that are 1-2 characters in length.  Also pay attention to files that reside in the ADMIN$ or IPC$ shares.
 
 **Description**
 
