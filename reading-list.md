@@ -22,6 +22,11 @@ Building on the HMM, this describes the hypothesis-driven cycle that successful 
 
 A very comprehensive discussion of many aspects of hunting, which a special emphasis on how it fits within the overal security program and the "active cyber defense cycle".
 
+**[Generating Hypotheses for Successful Threat Hunting](https://www.sans.org/reading-room/whitepapers/threats/generating-hypothesis-successful-threat-hunting-37172),
+*Robert M. Lee & David J. Bianco*
+
+An in-depth discussion of the different types of hunting hypotheses and how to create good ones to get your hunts started right.
+
 **[Cyber Threat Hunting (1): Intro](https://cyber-ir.com/2016/01/21/cyber-threat-hunting-1-intro/)**, *Samuel Alonso*
 
 Another good intro to threat hunting. Offers a slightly different viewpoint on hunting than some of the other items in this list.
