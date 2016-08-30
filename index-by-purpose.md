@@ -23,6 +23,9 @@ permalink: "/goal-index"
 
 [Finding the Unknown with HTTP URIs]({{ site.github.repository_url }}/blob/master/hunts/http_uri_analysis.md)
 
+[Beacon Detection via Intra-Request Time Deltas]({{ site.github.repository_url }}/blob/master/hunts/beacon_detection_via_intra_request_time_deltas.md)
+
+
 ## Compromise of Internet-Facing Service (SQL injection, web shells, etc)
 [Internet-Facing HTTP Request Analysis]({{ site.github.repository_url }}/blob/master/hunts/internet_facing_http_request_analysis.md)
 
