@@ -15,6 +15,8 @@ permalink: "/goal-index"
 
 [Psexec Windows Events]({{ site.github.repository_url }}/blob/master/hunts/psexec-windows-events.md)
 
+[Tool Renaming]({{ site.github.repository_url }}/blob/master/hunts/renamed-tools.md)
+
 ## BIOS/Firmware tampering
 [RAM Dumping]({{ site.github.repository_url }}/blob/master/hunts/ram_dumping.md)
 
@@ -44,6 +46,9 @@ permalink: "/goal-index"
 ## Data Hiding
 [NTFS Extended Attribute Analysis]({{ site.github.repository_url }}/blob/master/hunts/ntfs_extended_attribute_analysis.md)
 
+## Data Staging & Exfiltration
+[Producer-Consumer Ratio for Detecting Data Exfiltration]({{ site.github.repository_url }}/blob/master/hunts/analyze_producer_consumer_ratio.md)
+
 ## Exploits
 [Suspicious Process Creation via Windows Event Logs]({{ site.github.repository_url }}/blob/master/hunts/suspicious_process_creation_via_windows_event_logs.md)
 
@@ -57,6 +62,8 @@ permalink: "/goal-index"
 [Windows Lateral Movement via Explicit Credentials]({{ site.github.repository_url }}/blob/master/hunts/lateral-movement-via-explicit-credentials.md)
 
 [Lateral Movement Detection via Process Monitoring]({{ site.github.repository_url }}/blob/master/hunts/lateral_movement_detection_via_process_monitoring.md)
+
+[Finding Golden and Silver Tickets]({{ site.github.repository_url }}/blob/master/hunts/golden_ticket.md)
 
 ## Malicious Listening Services
 [Search for Rogue Listeners]( {{ site.github.repository_url }}/blob/master/hunts/rogue_listeners.md)

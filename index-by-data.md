@@ -15,6 +15,8 @@ permalink: "/data-index"
 
 [Finding the Unknown with HTTP URIs]({{ site.github.repository_url }}/blob/master/hunts/http_uri_analysis.md)
 
+[Producer-Consumer Ratio for Detecting Data Exfiltration]({{ site.github.repository_url }}/blob/master/hunts/analyze_producer_consumer_ratio.md)
+
 ## DNS Query Logs
 [C2 via Dynamic DNS]({{ site.github.repository_url }}/blob/master/hunts/dynamic_dns_c2.md)
 
@@ -53,6 +55,16 @@ permalink: "/data-index"
 
 [Finding Webshells]({{ site.github.repository_url }}/blob/master/hunts/webshells.md)
 
+## Network Sessions (Netflow or similar)
+[Producer-Consumer Ratio for Detecting Data Exfiltration]({{ site.github.repository_url }}/blob/master/hunts/analyze_producer_consumer_ratio.md)
+
+## Process Creation Audit Logs
+[Suspicious Process Creation via Windows Event Logs]({{ site.github.repository_url }}/blob/master/hunts/suspicious_process_creation_via_windows_event_logs.md)
+
+[Webshell Behavior]({{ site.github.repository_url }}/blob/master/hunts/webshell_behavior.md)
+
+[Lateral Movement Detection via Process Monitoring]({{ site.github.repository_url }}/blob/master/hunts/lateral_movement_detection_via_process_monitoring.md)
+
 ## Windows Event Logs
 
 [EMET Log Mining]({{ site.github.repository_url }}/blob/master/hunts/emet_log_mining.md)
@@ -73,17 +85,11 @@ permalink: "/data-index"
 
 [Lateral Movement Detection via Process Monitoring]({{ site.github.repository_url }}/blob/master/hunts/lateral_movement_detection_via_process_monitoring.md)
 
-## Process Creation Audit Logs
-[Suspicious Process Creation via Windows Event Logs]({{ site.github.repository_url }}/blob/master/hunts/suspicious_process_creation_via_windows_event_logs.md)
-
-[Webshell Behavior]({{ site.github.repository_url }}/blob/master/hunts/webshell_behavior.md)
-
-[Lateral Movement Detection via Process Monitoring]({{ site.github.repository_url }}/blob/master/hunts/lateral_movement_detection_via_process_monitoring.md)
-
 ## Other
 [Checking How Outsiders See You]({{ site.github.repository_url }}/blob/master/hunts/checking-how-outsiders-see-you.md)
 
+[Tool Renaming]({{ site.github.repository_url }}/blob/master/hunts/renamed-tools.md)
 
-
+[Finding Golden and Silver Tickets]({{ site.github.repository_url }}/blob/master/hunts/golden_ticket.md)
 
 
