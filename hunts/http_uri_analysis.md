@@ -22,6 +22,6 @@ Examples of types of URI's to look for:
 * Encoded with something
 
 **More Info**
-* [OWASP Top 10] (https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project), OWASP Project
-* [Evasion Techniques: Sneaking through Your
-Intrusion Detection/Prevention Systems] (http://speed.cis.nctu.edu.tw/~ydlin/pdf/Evasion_Techniques_Sneaking_through_Your_Intrusion_Detection_Prevention_Systems.pdf), Tsung-Huan Cheng, Ying-Dar Lin, Senior Member, IEEE, Yuan-Cheng Lai, and Po-Ching Lin, Member, IEEE
+
+* [OWASP Top 10](https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project), OWASP Project
+* [Evasion Techniques: Sneaking through Your Intrusion Detection/Prevention Systems](http://speed.cis.nctu.edu.tw/~ydlin/pdf/Evasion_Techniques_Sneaking_through_Your_Intrusion_Detection_Prevention_Systems.pdf), Tsung-Huan Cheng, Ying-Dar Lin, Senior Member, IEEE, Yuan-Cheng Lai, and Po-Ching Lin, Member, IEEE
