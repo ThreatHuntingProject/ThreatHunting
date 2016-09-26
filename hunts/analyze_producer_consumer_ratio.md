@@ -41,3 +41,4 @@ positive shift in PCR for DNS traffic may indicate DNS Exfil.
 - [PCR - A New Flow Metric, FloCon 2014](http://qosient.com/argus/presentations/Argus.FloCon.2014.PCR.Presentation.pdf)
 - [Leveraging Metadata And Machine Learning To Enhance Intrusion Analysis](http://spotidoc.com/doc/367670/leveraging-metadata-and-machine-learning)
 - [Github: reservoirlabs/bro-producer-consumer-ratio](https://github.com/reservoirlabs/bro-producer-consumer-ratio)
+- [Detecting Data Staging & Exfil Using the Producer-Consumer Ratio](http://detect-respond.blogspot.com/2016/09/detecting-data-staging-exfil-using-PCR-shift.html)
