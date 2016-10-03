@@ -6,6 +6,8 @@ permalink: "/reading-list"
 <h1>{{ page.title }}</h1>
 For those new to threat hunting, the ThreatHunting Project provides the following reading list to help you get started learning about the process.  
 
+## Articles (Quick Start)
+
 **[Incident Response is Dead... Long Live Incident Response](https://sroberts.github.io/2015/04/14/ir-is-dead-long-live-ir/)**, *Scott Roberts*
 
 Straight talk in plain language about the idea of hunting, why your organization should be doing it, and what it takes to create a successful hunting program. Read this one first!
@@ -38,3 +40,19 @@ Who doesn't like a good "Top N" list??  This one offers 5 quick bullet points to
 **[Threat Hunting: Open Season on the Adversary](https://www.sans.org/reading-room/whitepapers/analyst/threat-hunting-open-season-adversary-36882)**, *Dr. Eric Cole, The SANS Institute*
 
 The recent SANS threat hunting survey is probably the most authoritative source on how real practitioners and security executives view hunting, their own hunting programs, and their wants & needs for improvement.  
+
+## Books
+
+**[Data-Driven Security: Analysis, Visualization and Dashboards](https://www.amazon.com/Data-Driven-Security-Analysis-Visualization-Dashboards/dp/1118793722)**, *Jay Jacobs & Bob Rudis*
+
+A wide-ranging look at many aspects of data analysis and presentation fundamental to many hunting techniques.  Includes lots of code in R, but also Python.  It's great for learning the basic ideas behind data analysis and using the results to make decision and drive changes in your security program.  
+
+**[Network Security Through Data Analysis: Building Situational Awareness](https://www.amazon.com/Network-Security-Through-Data-Analysis/dp/1449357903)**, *Michael Collins*
+
+Covers many (free!) tools for collecting and analyzing large amounts of data, primarily to find potential intrusions.  The book takes a heavily hands-on, practical approach with extensive examples written in Python.  
+
+## Other Resources
+
+**[Windows Commands Abused by Attackers](http://blog.jpcert.or.jp/.s/2016/01/windows-commands-abused-by-attackers.html)**, *JPCERT/CC*
+
+Using data drawn from actual attacks, this article shows the most common Windows commands used and abused by attackers once they gain access to a system.  The commands are organized into "Initial Investigation", "Reconnaissance" and "Spread of Infection" (Lateral Movement).  There are no actual analytic techniques discussed here, but the data will be quite useful as the basis for generating some hunts based on Windows command usage.
