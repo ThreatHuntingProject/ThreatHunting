@@ -29,6 +29,10 @@ A very comprehensive discussion of many aspects of hunting, which a special emph
 
 An in-depth discussion of the different types of hunting hypotheses and how to create good ones to get your hunts started right.
 
+**[Building Threat Hunting Strategies with the Diamond Model](http://www.activeresponse.org/building-threat-hunting-strategy-with-the-diamond-model)**, *Sergio Caltagirone*
+
+The first part of this article is all about how to organize and prepare for your next hunt.  It introduces "the 4 hunting questions" you must answer before you begin.  The second part presents a framework for categorizing different hunting approaches based on the [Diamond Model of Intrusion Analysis](http://www.activeresponse.org/wp-content/uploads/2013/07/diamond.pdf) (of which Mr. Caltagirone was a primary author).  
+
 **[Cyber Threat Hunting (1): Intro](https://cyber-ir.com/2016/01/21/cyber-threat-hunting-1-intro/)**, *Samuel Alonso*
 
 Another good intro to threat hunting. Offers a slightly different viewpoint on hunting than some of the other items in this list.
