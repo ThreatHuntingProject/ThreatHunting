@@ -17,6 +17,8 @@ permalink: "/data-index"
 
 [Producer-Consumer Ratio for Detecting Data Exfiltration]({{ site.github.repository_url }}/blob/master/hunts/analyze_producer_consumer_ratio.md)
 
+[Finding C2 in Network Sessions]({{ site.github.repository_url }}/blob/master/hunts/net_session_c2.md)
+
 ## DNS Query Logs
 [C2 via Dynamic DNS]({{ site.github.repository_url }}/blob/master/hunts/dynamic_dns_c2.md)
 
@@ -57,6 +59,8 @@ permalink: "/data-index"
 
 ## Network Sessions (Netflow or similar)
 [Producer-Consumer Ratio for Detecting Data Exfiltration]({{ site.github.repository_url }}/blob/master/hunts/analyze_producer_consumer_ratio.md)
+
+[Finding C2 in Network Sessions]({{ site.github.repository_url }}/blob/master/hunts/net_session_c2.md)
 
 ## Process Creation Audit Logs
 [Suspicious Process Creation via Windows Event Logs]({{ site.github.repository_url }}/blob/master/hunts/suspicious_process_creation_via_windows_event_logs.md)
