@@ -92,6 +92,8 @@ permalink: "/goal-index"
 
 [Finding the Unknown with HTTP URIs]({{ site.github.repository_url }}/blob/master/hunts/http_uri_analysis.md)
 
+[Finding Malware Process Impersonation via String Distance]({{ site.github.repository_url }}/blob/master/hunts/critical_process_impersonation.md)
+
 ## Privilege Escalation
 [Privileged Group Tracking]({{ site.github.repository_url }}/blob/master/hunts/privileged-group-tracking.md)
 

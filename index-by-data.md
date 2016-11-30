@@ -69,6 +69,8 @@ permalink: "/data-index"
 
 [Lateral Movement Detection via Process Monitoring]({{ site.github.repository_url }}/blob/master/hunts/lateral_movement_detection_via_process_monitoring.md)
 
+[Finding Malware Process Impersonation via String Distance]({{ site.github.repository_url }}/blob/master/hunts/critical_process_impersonation.md)
+
 ## Windows Event Logs
 
 [EMET Log Mining]({{ site.github.repository_url }}/blob/master/hunts/emet_log_mining.md)
