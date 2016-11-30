@@ -18,7 +18,7 @@ Scripting
 
 **Description**
 
-A popular technique for hiding malware running on Windows systems is to give it a name that's confusingly similar to a legitimate Windows process, preferably one that is always present on all systems. Using a _string similarity_ algorithm, we can compare the names of running processes to a set of defined Windows system processes to look for this sort of impersonation.
+A popular technique for hiding malware running on Windows systems is to give it a name that's confusingly similar to a legitimate Windows process, preferably one that is always present on all systems. Using a _string similarity_ algorithm ([Damerau-Levenshtein](https://en.wikipedia.org/wiki/Damerau%E2%80%93Levenshtein_distance) distance), we can compare the names of running processes to a set of defined Windows system processes to look for this sort of impersonation.
 
 **Other Notes**
 
