@@ -66,6 +66,8 @@ permalink: "/goal-index"
 
 [Finding Golden and Silver Tickets]({{ site.github.repository_url }}/blob/master/hunts/golden_ticket.md)
 
+[Identify Suspicious Command Shells]({{ site.github.repository_url }}/blob/master/hunts/suspicious_command_shells.md)
+
 ## Malicious Listening Services
 [Search for Rogue Listeners]( {{ site.github.repository_url }}/blob/master/hunts/rogue_listeners.md)
 
@@ -97,3 +99,5 @@ permalink: "/goal-index"
 ## Privilege Escalation
 [Privileged Group Tracking]({{ site.github.repository_url }}/blob/master/hunts/privileged-group-tracking.md)
 
+## Other 
+[Identify Suspicious Command Shells]({{ site.github.repository_url }}/blob/master/hunts/suspicious_command_shells.md)

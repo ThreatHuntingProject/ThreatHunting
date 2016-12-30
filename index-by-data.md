@@ -71,6 +71,8 @@ permalink: "/data-index"
 
 [Finding Malware Process Impersonation via String Distance]({{ site.github.repository_url }}/blob/master/hunts/critical_process_impersonation.md)
 
+[Identify Suspicious Command Shells]({{ site.github.repository_url }}/blob/master/hunts/suspicious_command_shells.md)
+
 ## Windows Event Logs
 
 [EMET Log Mining]({{ site.github.repository_url }}/blob/master/hunts/emet_log_mining.md)
