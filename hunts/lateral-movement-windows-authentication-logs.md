@@ -37,12 +37,19 @@ Stack counting, outlier detection, visualization
 
 Make note of administrative attempts, visualize this activity and look for deviations from baseline in the number of attempts, the accounts involved in the attempts or the computers on which the attempts occur.
 
+Look for instances where multiple users are logged onto an end-user workstation simultaneously or within a relatively short period of time, where the same user account is logged onto more than one host, or where a network login references a non-domain account on the target system.
+
 **Other Notes**
 
 "Administrative" accounts includes any user with special rights, not necessarily only the Local or Domain "Administrator" accounts.
 
 **More Info**
 
-- [Detecting Lateral Movement in APTs: Analysis Approach on Windows Event Logs](https://www.first.org/resources/papers/conf2016/FIRST-2016-105.pdf), Shingo ABE, JPCERT/CC
-- [Seek Evil, and Ye Shall Find: A Guide to Cyber Threat Hunting Operations](https://digitalguardian.com/blog/seek-evil-and-ye-shall-find-guide-cyber-threat-hunting-operations), Tim Bandos, Digital Guardian
+* [Detecting Lateral Movement in APTs: Analysis Approach on Windows Event Logs](https://www.first.org/resources/papers/conf2016/FIRST-2016-105.pdf), Shingo ABE, JPCERT/CC
+* [Seek Evil, and Ye Shall Find: A Guide to Cyber Threat Hunting Operations](https://digitalguardian.com/blog/seek-evil-and-ye-shall-find-guide-cyber-threat-hunting-operations), Tim Bandos, Digital Guardian
+* [CAR-2013-02-008: Simultaneous Logons on a Host](https://car.mitre.org/wiki/CAR-2013-02-008), MITRE Cyber Analytic Repository
+* [CAR-2013-02-012: User Logged in to Multiple Hosts](https://car.mitre.org/wiki/CAR-2013-02-012), MITRE Cyber Analytic Repository
+* [CAR-2016-04-004: Successful Local Account Login](https://car.mitre.org/wiki/CAR-2016-04-004), MITRE Cyber Analytic Repository
+
+
 

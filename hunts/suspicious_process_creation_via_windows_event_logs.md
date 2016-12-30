@@ -6,14 +6,11 @@ Find attacker tools in use
 
 **Data Required**
 
-Windows process creation logs (Event 4688 & 592)
+Windows process creation logs (Event 4688 & 592) or equivalent (Carbon Black, Sysmon, etc)
 
 **Collection Considerations**
 
-Collect these from every host in the domain.  If you have additional
-endpoint data collection tools that can log data about process
-execution (e.g. Microsoft Sysmon, Carbon Black, etc) you may be able
-to similar analyses with equivalent data.
+Collect these from every host in the domain.  
 
 **Analysis Techniques**
 
@@ -31,6 +28,11 @@ Search all process creation log entries and look for:
 	* `%windows%\addins`
 	* `%windows%\debut`
 	* `%windows%\system32\tasks`
+	* `*:\RECYCLER\`
+	* `*:\SystemVolumeInformation\`
+	* `%windir%\Tasks\`
+	* `%systemroot%\debug\`
+
 * Known attacker tool names, such as
 	* `rar.exe`
   	* `psexec.exe`
@@ -49,20 +51,18 @@ The following are based on a set of tweets by Jack Crook (@jackcr):
 
 **Other Notes**
 
-Event 4688 is even more valuable if logging policy is set to record
-the entire command line (some of these suggestions require that info).
-Review your domain audit policies and/or supplement with additional
-process logging as necessary.  Sysmon is a very good free tool that
-can do nearly anything you'd need.
+Event 4688 is even more valuable if logging policy is set to record the entire command line (some of these suggestions require that info). Review your domain audit policies and/or supplement with additional process logging as necessary.  Sysmon is a very good free tool that can do nearly anything you'd need.
 
 
 
 **More Info**
 
-- [Tweet by @jackcr #1](https://twitter.com/jackcr/status/707215101007413248)
-- [Tweet by @jackcr #2](https://twitter.com/jackcr/status/707551910031728640)
-- [Tweet by @jackcr #3](https://twitter.com/jackcr/status/707247278118084608)
-- [Tweet by @jackcr #4](https://twitter.com/jackcr/status/707247524516651008)
-- [Tweet by @jackcr #5](https://twitter.com/jackcr/status/707247746462384129)
-- [Seek Evil, and Ye Shall Find: A Guide to Cyber Threat Hunting Operations](https://digitalguardian.com/blog/seek-evil-and-ye-shall-find-guide-cyber-threat-hunting-operations), Tim Bandos, Digital Guardian
+* [Tweet by @jackcr #1](https://twitter.com/jackcr/status/707215101007413248)
+* [Tweet by @jackcr #2](https://twitter.com/jackcr/status/707551910031728640)
+* [Tweet by @jackcr #3](https://twitter.com/jackcr/status/707247278118084608)
+* [Tweet by @jackcr #4](https://twitter.com/jackcr/status/707247524516651008)
+* [Tweet by @jackcr #5](https://twitter.com/jackcr/status/707247746462384129)
+* [Seek Evil, and Ye Shall Find: A Guide to Cyber Threat Hunting Operations](https://digitalguardian.com/blog/seek-evil-and-ye-shall-find-guide-cyber-threat-hunting-operations), Tim Bandos, Digital Guardian
+* [CAR-2013-05-002: Suspicious Run Locations](https://car.mitre.org/wiki/CAR-2013-05-002), MITRE Cyber Analytic Repository
+* 
 

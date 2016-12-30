@@ -37,4 +37,7 @@ For the data that is returned:
 
 **More Info**
 
-- [Hunting Lateral Movement](https://findingbad.blogspot.com/2016/08/hunting-lateral-movement.html)
+* [Hunting Lateral Movement](https://findingbad.blogspot.com/2016/08/hunting-lateral-movement.html)
+* [CAR-2013-04-002: Quick execution of a series of suspicious commands](https://car.mitre.org/wiki/CAR-2013-04-002), MITRE Cyber Analytic Repository
+* [CAR-2016-03-001: Host Discovery Commands](https://car.mitre.org/wiki/CAR-2016-03-001), MITRE Cyber Analytic Repository
+
