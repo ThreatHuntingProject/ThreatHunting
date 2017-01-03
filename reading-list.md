@@ -12,6 +12,10 @@ For those new to threat hunting, the ThreatHunting Project provides the followin
 
 Straight talk in plain language about the idea of hunting, why your organization should be doing it, and what it takes to create a successful hunting program. Read this one first!
 
+**[Demystifying Threat Hunting Concepts](https://medium.com/@jshlbrd/demystifying-threat-hunting-concepts-9de5bad2d818)**, *Josh Liburdi*
+
+A strategic look at the importance of good beginnings, middles and ends of the hunt.  
+
 **[A Simple Hunting Maturity Model](http://detect-respond.blogspot.com/2015/10/a-simple-hunting-maturity-model.html)**, *David J. Bianco*
 
 Proposes a practical definition of "hunting", and a maturity model to help explain the various stages of hunting capability an organization can go through.  The HMM can be viewed as a roadmap that an organization can use to describe their current capability and plan for improvement.
