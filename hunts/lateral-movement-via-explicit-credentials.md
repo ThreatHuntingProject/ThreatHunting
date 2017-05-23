@@ -1,4 +1,4 @@
-#Windows Lateral Movement via Explicit Credentials
+# Windows Lateral Movement via Explicit Credentials
 
 **Purpose**
 
