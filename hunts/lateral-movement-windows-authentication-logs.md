@@ -1,4 +1,4 @@
-#Detecting Lateral Movement in Windows Event Logs
+# Detecting Lateral Movement in Windows Event Logs
 
 **Purpose**
 
