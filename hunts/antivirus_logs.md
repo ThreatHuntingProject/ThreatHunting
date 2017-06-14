@@ -1,4 +1,4 @@
-#Finding Known-Bad in Antivirus Logs
+# Finding Known-Bad in Antivirus Logs
 
 **Purpose**: Identify things that the AV system has found that you particularly care about
 
