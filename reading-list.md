@@ -8,7 +8,7 @@ For those new to threat hunting, the ThreatHunting Project provides the followin
 
 ## Articles (Quick Start)
 
-**[Incident Response is Dead... Long Live Incident Response](https://sroberts.github.io/2015/04/14/ir-is-dead-long-live-ir/)**, *Scott Roberts*
+**[Incident Response is Dead... Long Live Incident Response](https://medium.com/@sroberts/incident-response-is-dead-long-live-incident-response-5ba1de664b95)**, *Scott Roberts*
 
 Straight talk in plain language about the idea of hunting, why your organization should be doing it, and what it takes to create a successful hunting program. Read this one first!
 
