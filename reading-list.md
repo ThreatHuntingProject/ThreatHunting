@@ -51,6 +51,10 @@ The recent SANS threat hunting survey is probably the most authoritative source 
 
 ## Books
 
+**[Huntpedia](files/huntpedia.pdf)**, *Richard Bejtlich, Danny Akacki, David Bianco, Tyler Hudak, Scott Roberts, et al.*
+
+A collection of essays and "how-to" articles on threat hunting put by [Sqrrl](http://sqrrl.com). It's not tied to their product, though, and is a great reference for both beginners and advanced threat hunters. The first section talks about hunting theory and practice, while the second focuses on providing detailed, concrete examples of actionable hunts.
+
 **[Data-Driven Security: Analysis, Visualization and Dashboards](https://www.amazon.com/Data-Driven-Security-Analysis-Visualization-Dashboards/dp/1118793722)**, *Jay Jacobs & Bob Rudis*
 
 A wide-ranging look at many aspects of data analysis and presentation fundamental to many hunting techniques.  Includes lots of code in R, but also Python.  It's great for learning the basic ideas behind data analysis and using the results to make decision and drive changes in your security program.  
