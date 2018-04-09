@@ -1,4 +1,4 @@
-#NTFS Extended Attribute Analysis
+# NTFS Extended Attribute Analysis
 
 **Purpose**: Identify data hiding in extended attributes on files in an NTFS filesystem, which are otherwise rarely used.  
 

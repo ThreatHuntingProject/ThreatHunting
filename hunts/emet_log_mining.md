@@ -1,4 +1,4 @@
-#EMET Log Mining
+# EMET Log Mining
 
 **Purpose**: Identify potential 0-day exploits by looking for things blocked by EMET
 

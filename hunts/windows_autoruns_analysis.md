@@ -1,4 +1,4 @@
-#Autoruns Analysis
+# Autoruns Analysis
 
 **Purpose**: Find malware persistence by examining common mechanisms across a network
 
