@@ -20,7 +20,7 @@ A strategic look at the importance of good beginnings, middles and ends of the h
 
 Proposes a practical definition of "hunting", and a maturity model to help explain the various stages of hunting capability an organization can go through.  The HMM can be viewed as a roadmap that an organization can use to describe their current capability and plan for improvement.
 
-**[The Threat Hunting Reference Model Part 2: The Hunting Loop](files/The Threat Hunting Reference Model Part 2_ The Hunting Loop _ Sqrrl)**, *Sqrrl*
+**[The Threat Hunting Reference Model Part 2: The Hunting Loop](files/The Threat Hunting Reference Model Part 2_ The Hunting Loop _ Sqrrl.pdf)**, *Sqrrl*
 
 Building on the HMM, this describes the hypothesis-driven cycle that successful hunters must iterate through
 
