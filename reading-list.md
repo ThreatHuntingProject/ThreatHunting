@@ -20,7 +20,7 @@ A strategic look at the importance of good beginnings, middles and ends of the h
 
 Proposes a practical definition of "hunting", and a maturity model to help explain the various stages of hunting capability an organization can go through.  The HMM can be viewed as a roadmap that an organization can use to describe their current capability and plan for improvement.
 
-**[The Threat Hunting Reference Model Part 2: The Hunting Loop](http://blog.sqrrl.com/the-threat-hunting-reference-model-part-2-the-hunting-loop)**, *Sqrrl*
+**[The Threat Hunting Reference Model Part 2: The Hunting Loop](files/The Threat Hunting Reference Model Part 2_ The Hunting Loop _ Sqrrl)**, *Sqrrl*
 
 Building on the HMM, this describes the hypothesis-driven cycle that successful hunters must iterate through
 
@@ -53,7 +53,7 @@ The recent SANS threat hunting survey is probably the most authoritative source 
 
 **[Huntpedia](files/huntpedia.pdf)**, *Richard Bejtlich, Danny Akacki, David Bianco, Tyler Hudak, Scott Roberts, et al.*
 
-A collection of essays and "how-to" articles on threat hunting put by [Sqrrl](http://sqrrl.com). It's not tied to their product, though, and is a great reference for both beginners and advanced threat hunters. The first section talks about hunting theory and practice, while the second focuses on providing detailed, concrete examples of actionable hunts.
+A collection of essays and "how-to" articles on threat hunting. Although it was originally published by a vendor (Sqrrl) that no longer exists, it's not tied to their product, and is a great reference for both beginners and advanced threat hunters. The first section talks about hunting theory and practice, while the second focuses on providing detailed, concrete examples of actionable hunts.
 
 **[Data-Driven Security: Analysis, Visualization and Dashboards](https://www.amazon.com/Data-Driven-Security-Analysis-Visualization-Dashboards/dp/1118793722)**, *Jay Jacobs & Bob Rudis*
 
