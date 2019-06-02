@@ -14,22 +14,45 @@ I'm not hosting the entire Sqrrl website, but rather picking and choosing docume
 
 ## Blog Posts
 
-**[A Framework for Cyber Threat Hunting Part 1: The Pyramid of Pain](files/A Framework for Cyber Threat Hunting Part 1_ The Pyramid of Pain _ Sqrrl.pdf)**
+**[A Framework for Cyber Threat Hunting Part 1: The Pyramid of Pain](files/A Framework for Cyber Threat Hunting Part 1_ The Pyramid of Pain _ Sqrrl.pdf)**, *Sqrrl Team*
 
-**[A Framework for Cyber Threat Hunting Part 2: Advanced Persistent Defense](files/A Framework for Cyber Threat Hunting Part 2_ Advanced Persistent Defense _ Sqrrl.pdf)**
+An discussion about the [Pyramid of Pain](https://bit.ly/PyramidOfPain) and how to apply it to Threat Hunting.
 
-**[A Framework for Cyber Threat Hunting Part 3: The Value of Hunting TTPs](files/A Framework for Cyber Threat Hunting Part 3_ The Value of Hunting TTPs _ Sqrrl.pdf)**
+**[A Framework for Cyber Threat Hunting Part 2: Advanced Persistent Defense](files/A Framework for Cyber Threat Hunting Part 2_ Advanced Persistent Defense _ Sqrrl.pdf)**, *Sqrrl Team*
 
-**[The Threat Hunting Reference Model Part 1: Measuring Hunting Maturity](files/The Threat Hunting Reference Model Part 1_ Measuring Hunting Maturity _ Sqrrl.pdf)**
+Introduces the Hunting Cycle, a conceptual model describing the steps in a typical hunting trip. Also shows how the Hunting Cycle integrates with both the threat intel and incident response processes.
 
-**[The Threat Hunting Reference Model Part 2: The Hunting Loop](files/The Threat Hunting Reference Model Part 2_ The Hunting Loop _ Sqrrl.pdf)**
+**[A Framework for Cyber Threat Hunting Part 3: The Value of Hunting TTPs](files/A Framework for Cyber Threat Hunting Part 3_ The Value of Hunting TTPs _ Sqrrl.pdf)**, *Sqrrl Team*
 
-**[The Threat Hunting Reference Model Part 3: The Hunt Matrix](files/The Threat Hunting Reference Model Part 3_ The Hunt Matrix _ Sqrrl.pdf)**
+Why you should concentrate your hunting efforts on adversary behaviors.
 
-**[Demystifying Threat Hunting Concepts](files/Demystifying Threat Hunting Concepts _ Sqrrl.pdf)**
+**[The Threat Hunting Reference Model Part 1: Measuring Hunting Maturity](files/The Threat Hunting Reference Model Part 1_ Measuring Hunting Maturity _ Sqrrl.pdf)**, *Sqrrl Team*
+
+Introduces the Hunting Maturity Model (HMM), which measures the maturity of an organization's hunting program.
+
+**[The Threat Hunting Reference Model Part 2: The Hunting Loop](files/The Threat Hunting Reference Model Part 2_ The Hunting Loop _ Sqrrl.pdf)**, *Sqrrl Team*
+
+Expands upon the Hunting Cycle (noted above) and introduces a more polished and complete version, the Threat Hunting Loop.
+
+**[The Threat Hunting Reference Model Part 3: The Hunt Matrix](files/The Threat Hunting Reference Model Part 3_ The Hunt Matrix _ Sqrrl.pdf)**, *Sqrrl Team*
+
+Incorporating both the Hunting Maturity Model and the Hunting Loop, the Hunt Matrix describes what each loop stage's typical processes look like for each maturity level.
+
+**[Demystifying Threat Hunting Concepts](files/Demystifying Threat Hunting Concepts _ Sqrrl.pdf)**, *Josh Liburdi*
+
+A look at reality behind some hunting concepts that often confuse even experienced hunters, with a special emphasis on the beginning and the end of the hunting process.
 
 ## Other
 
 **[Huntpedia](files/huntpedia.pdf)**, *Richard Bejtlich, Danny Akacki, David Bianco, Tyler Hudak, Scott Roberts, et al.*
 
-A collection of essays and "how-to" articles on threat hunting. Although it was originally published by a vendor (Sqrrl) that no longer exists, it's not tied to their product, and is a great reference for both beginners and advanced threat hunters. The first section talks about hunting theory and practice, while the second focuses on providing detailed, concrete examples of actionable hunts.
+An ebook collection of essays and "how-to" articles on threat hunting. Although it was originally published by a vendor (Sqrrl) that no longer exists, it's not tied to their product, and is a great reference for both beginners and advanced threat hunters. The first section talks about hunting theory and practice, while the second focuses on providing detailed, concrete examples of actionable hunts.
+
+**[A Framework for Cyber Threat Hunting](files/framework-for-threat-hunting-whitepaper.pdf)**, *Sqrrl*
+
+A summary of many of the concepts mentioned in the blog posts above, in one convenient white paper.
+
+**[Hunt Evil: Your Practical Guide to Threat Hunting](files/hunt-evil-practical-guide-threat-hunting.pdf)**, *Sqrrl*
+
+Hands-on guidance for both hunt team managers and hunt practitioners.
+
