@@ -26,6 +26,8 @@ I'm not hosting the entire Sqrrl website, but rather picking and choosing docume
 
 **[The Threat Hunting Reference Model Part 3: The Hunt Matrix](files/The Threat Hunting Reference Model Part 3_ The Hunt Matrix _ Sqrrl.pdf)**
 
+**[Demystifying Threat Hunting Concepts](files/Demystifying Threat Hunting Concepts _ Sqrrl.pdf)**
+
 ## Other
 
 **[Huntpedia](files/huntpedia.pdf)**, *Richard Bejtlich, Danny Akacki, David Bianco, Tyler Hudak, Scott Roberts, et al.*
