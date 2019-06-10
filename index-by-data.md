@@ -19,8 +19,13 @@ permalink: "/data-index"
 
 [Finding C2 in Network Sessions]({{ site.github.repository_url }}/blob/master/hunts/net_session_c2.md)
 
+[Whaling Detection via Unusual Sender Domains]({{ site.github.repository_url }}/blob/master/hunts/whaling-detection-via-unusual-sender-domains.md)
+
 ## DNS Query Logs
 [C2 via Dynamic DNS]({{ site.github.repository_url }}/blob/master/hunts/dynamic_dns_c2.md)
+
+## Email (SMTP logs or similar)
+[Whaling Detection via Unusual Sender Domains]({{ site.github.repository_url }}/blob/master/hunts/whaling-detection-via-unusual-sender-domains.md)
 
 ## Host Dumps (RAM, Registry, Filesystem, Processes, etc)
 [Comparing Host Images/Memory Dumps to Known-Good Baselines]({{ site.github.repository_url }}/blob/master/hunts/comparing_host_images_memory_dumps_to_known_good_baselines.md)

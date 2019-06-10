@@ -96,6 +96,9 @@ permalink: "/goal-index"
 
 [Finding Malware Process Impersonation via String Distance]({{ site.github.repository_url }}/blob/master/hunts/critical_process_impersonation.md)
 
+## Phishing
+[Whaling Detection via Unusual Sender Domains]({{ site.github.repository_url }}/blob/master/hunts/whaling-detection-via-unusual-sender-domains.md)
+
 ## Privilege Escalation
 [Privileged Group Tracking]({{ site.github.repository_url }}/blob/master/hunts/privileged-group-tracking.md)
 
