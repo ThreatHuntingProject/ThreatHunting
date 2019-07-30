@@ -1,4 +1,4 @@
-#Lateral Movement Detection via Process Monitoring
+# Lateral Movement Detection via Process Monitoring
 
 **Purpose**
 
