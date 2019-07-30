@@ -1,4 +1,4 @@
-#Finding C2 in Network Sessions
+# Finding C2 in Network Sessions
 
 **Purpose**
 
