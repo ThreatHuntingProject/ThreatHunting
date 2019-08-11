@@ -20,3 +20,5 @@ Malware C2 often utilizes regular request intervals ("beacons") to maintain cont
 - [Detecting Malware Beacons Using Splunk](http://pleasefeedthegeek.wordpress.com/2012/12/20/detecting-malware-beacons-using-splunk/)
 
 - [Tweet by @jackcr](https://twitter.com/jackcr/status/747786867093946368)
+
+- [How to (systematically) detect beaconing traffic with Splunk?](https://github.com/inodee/threathunting-spl/blob/master/hunt-queries/Detecting_Beaconing.md)
