@@ -1,4 +1,4 @@
-#C2 via Dynamic DNS 
+# C2 via Dynamic DNS
 
 **Purpose**: Identify potential C2 activity
 

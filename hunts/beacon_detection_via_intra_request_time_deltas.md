@@ -1,4 +1,4 @@
-#Beacon Detection via Intra-Request Time Deltas
+# Beacon Detection via Intra-Request Time Deltas
 
 **Purpose**: Find regular HTTP beaconing behavior which may indicate malware C2
 

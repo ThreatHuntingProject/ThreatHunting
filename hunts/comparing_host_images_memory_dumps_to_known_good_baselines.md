@@ -1,4 +1,4 @@
-#Comparing Host Images/Memory Dumps to Known-Good Baselines
+# Comparing Host Images/Memory Dumps to Known-Good Baselines
 
 **Purpose**: Identify deviations from "known-good" which might tend to indicate the presence of malware on a system
 
