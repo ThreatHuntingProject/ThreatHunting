@@ -20,3 +20,4 @@ Stack counting can be effective if the analyst can easily identify anomalies in 
 
 * [Hunting Through RDP Data - Josh Liburdi (BroCon 2015)](https://www.youtube.com/watch?v=mOV_9YMgYZw)
 * [CAR-2016-04-005: Remote Desktop Login](https://car.mitre.org/wiki/CAR-2016-04-005), MITRE Cyber Analytic Repository
+* [RDP Flowchart - 13CUbed](https://www.13cubed.com/downloads/rdp_flowchart.pdf)
