@@ -1,4 +1,4 @@
-#RAM Dumping
+# RAM Dumping
 
 **Purpose**: Examine memory dumps of an individual system, looking for signs of malware or other malicious activities
 
